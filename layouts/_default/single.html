@@ -1,0 +1,10 @@
+{{ partial "header.html" . }}
+<section class="container content">
+    <h2>{{ .Title }}</h2>
+    <p class="meta">{{ .Date.Format "Mon Jan 2, 2006" }}</p>
+
+    <div class="post">
+    {{ .Content }}
+    </div>
+</section>
+{{ partial "footer.html" . }}
