@@ -32,4 +32,4 @@ I didn't have any luck with that command (the FTP server was still running), so 
 
 Problem solved!  And a useful hidden feature of Lion discovered.
 
-[1]:http://www.goodiware.com/goodreader.html
+[1]://www.goodiware.com/goodreader.html

@@ -43,6 +43,6 @@ My friend had some questions, and when I was replying to his email I ended up sp
 
 >I hope that answers your questions.  I'd suggest we all sit down together and nut some of this stuff out.  We can work on characters, and decide how we want to go about starting the Season.
 
-[1]:http://dugatronsdarkangels.blogspot.com/
-[2]:http://en.wikipedia.org/wiki/Serenity_(role-playing_game)
-[3]:http://www.goodgames.com.au/stores/Canberra
+[1]://dugatronsdarkangels.blogspot.com/
+[2]://en.wikipedia.org/wiki/Serenity_(role-playing_game)
+[3]://www.goodgames.com.au/stores/Canberra

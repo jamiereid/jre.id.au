@@ -17,4 +17,4 @@ draft: false
 
 Alt text: My [normal approach][1] is useless here, too.
 
-[1]:http://xkcd.com/55/
+[1]://xkcd.com/55/

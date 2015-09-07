@@ -22,4 +22,4 @@ draft: false
 
 [Neil Gaiman][1]
 
-[1]:http://journal.neilgaiman.com/2012/03/some-thoughts-on-writing-and-driving-in.html
+[1]://journal.neilgaiman.com/2012/03/some-thoughts-on-writing-and-driving-in.html

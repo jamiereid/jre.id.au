@@ -12,7 +12,7 @@ After doing a bit of research (and watching a LOT of videos from [FliteTest][]) 
 
 This morning, after waiting for what felt like an eternity, I took my plane down to the oval for it's maiden flight.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D8su5jStRPU" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/D8su5jStRPU" frameborder="0" allowfullscreen></iframe>
 
 I got about 20 seconds flight time before she hit the ground :(  Quite a bit of damage.
 
@@ -40,13 +40,13 @@ The other major piece of damage was to the tail section. A bbq skewer and some h
 
 I'm looking forward to getting her back up in air, and hopefully for longer than 20 seconds next time!
 
-[FliteTest]: http://flitetest.com/
-[plane]: http://www.hobbyking.com/hobbyking/store/__13432__J3_Green_Airplane_Model_w_Brushless_system_PNF_.html
-[Hobbyking]: http://hobbyking.com.au/
-[propdamage]: http://media.jre.id.au/blog/2015-01-25-hikouki-crash/IMG_20150125_102520.jpg "Damage to the prop section"
-[taildamage]: http://media.jre.id.au/blog/2015-01-25-hikouki-crash/IMG_20150125_102530.jpg "Damage to the tail section"
-[brokenfirewall]: http://media.jre.id.au/blog/2015-01-25-hikouki-crash/IMG_20150125_123133.jpg "Broken firewall"
-[newfirewall]: http://media.jre.id.au/blog/2015-01-25-hikouki-crash/IMG_20150125_123711.jpg "New firewall cutout"
-[newfirewallinstalled]: http://media.jre.id.au/blog/2015-01-25-hikouki-crash/IMG_20150125_134408.jpg "New firewall installed"
-[skewerbackbone]: http://media.jre.id.au/blog/2015-01-25-hikouki-crash/IMG_20150125_125028.jpg "Skewer backbone"
-[newtail]: http://media.jre.id.au/blog/2015-01-25-hikouki-crash/IMG_20150125_125355.jpg "Tail all back together"
+[FliteTest]: //flitetest.com/
+[plane]: //www.hobbyking.com/hobbyking/store/__13432__J3_Green_Airplane_Model_w_Brushless_system_PNF_.html
+[Hobbyking]: //hobbyking.com.au/
+[propdamage]: //media.jre.id.au/blog/2015-01-25-hikouki-crash/IMG_20150125_102520.jpg "Damage to the prop section"
+[taildamage]: //media.jre.id.au/blog/2015-01-25-hikouki-crash/IMG_20150125_102530.jpg "Damage to the tail section"
+[brokenfirewall]: //media.jre.id.au/blog/2015-01-25-hikouki-crash/IMG_20150125_123133.jpg "Broken firewall"
+[newfirewall]: //media.jre.id.au/blog/2015-01-25-hikouki-crash/IMG_20150125_123711.jpg "New firewall cutout"
+[newfirewallinstalled]: //media.jre.id.au/blog/2015-01-25-hikouki-crash/IMG_20150125_134408.jpg "New firewall installed"
+[skewerbackbone]: //media.jre.id.au/blog/2015-01-25-hikouki-crash/IMG_20150125_125028.jpg "Skewer backbone"
+[newtail]: //media.jre.id.au/blog/2015-01-25-hikouki-crash/IMG_20150125_125355.jpg "Tail all back together"

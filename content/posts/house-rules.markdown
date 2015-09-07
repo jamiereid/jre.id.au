@@ -26,8 +26,8 @@ Should I have stuck true to the house rule and had him alter his character?  Sho
 
 What house rules have to had to bend/ignore in order to keep your players happy?  What's your opinion on "but the book says I can"?
 
-[1]:http://jre.id.au/2011/04/06/the-time-has-come/
-[2]:http://jre.id.au/dl/WRESerenity-3x3x3.pdf
+[1]://jre.id.au/2011/04/06/the-time-has-come/
+[2]://jre.id.au/dl/WRESerenity-3x3x3.pdf
 [3]:#asset_example
 [4]:#complication_example
 
