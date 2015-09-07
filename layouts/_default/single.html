@@ -1,10 +1,19 @@
-{{ partial "header.html" . }}
-<section class="container content">
-    <h2>{{ .Title }}</h2>
-    <p class="meta">{{ .Date.Format "Mon Jan 2, 2006" }}</p>
+	{{ partial "head.html" . }}
+	<body class="{{ .Site.Params.themeColor }}">
+		{{ partial "sidebar.html" . }}
 
-    <div class="post">
-    {{ .Content }}
-    </div>
-</section>
-{{ partial "footer.html" . }}
+		<div class="content container">
+			<div class="post">
+			 	<h1>{{ .Title }}</h1>
+			  <span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
+			      {{ .Content }}
+			</div>
+
+			{{ if and (isset .Site.Params "disqusShortname") (ne .Site.Params.disqusShortname "") }}
+				<h2>Comments</h2>
+				{{ partial "disqus" . }}
+			{{ end }}
+		</div>
+
+  </body>
+</html>
