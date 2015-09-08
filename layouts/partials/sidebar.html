@@ -9,6 +9,8 @@
 
     <ul class="sidebar-nav">
       <li><a href="/posts">Posts</a></li>
+      <li><a href="/categories/game-development">Game Dev</a></li>
+      <li><a href="/categories/writing">Writing</a></li>
       {{ range .Site.Menus.main }}
         <li><a href="{{.URL}}"> {{ .Name }} </a></li>
       {{end}}

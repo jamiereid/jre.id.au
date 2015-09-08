@@ -1,6 +1,7 @@
 baseurl = "https://jre.id.au/"
 languageCode = "en-us"
 title = "jre.id.au"
+pygmentsuseclasses = true
 
 [taxonomies]
   tag = "tags"
