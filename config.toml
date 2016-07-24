@@ -1,8 +1,6 @@
-baseurl = "https://jre.id.au/"
-languageCode = "en-us"
-title = "jre.id.au"
-pygmentsuseclasses = true
+baseurl         =   "https://jre.id.au/"
+languageCode    =   "en-us"
+title           =   "jre id au"
+author          =   "Jamie Reid"
 
-[taxonomies]
-  tag = "tags"
-  category = "categories"
+theme           =   "bluejam"
