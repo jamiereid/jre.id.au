@@ -1,0 +1,9 @@
+<div class="blurb">
+  {{ .Site.Params.description }}
+</div>
+
+<div class="social">
+  {{ if .Site.params.twitter }}
+  <i class="fa fa-twitter" aria-hidden="true"></i><a href="https://twitter.com/{{ .Site.Params.twitter }}">{{ .Site.Params.twitter }}</a>
+  {{ end }}
+</div>

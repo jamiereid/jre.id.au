@@ -2,7 +2,7 @@
 title: "Hikouki Crash"
 description: ""
 date: 2015-01-25
-categories: ["Projects"]
+tags: ["projects"]
 draft: false
 ---
 

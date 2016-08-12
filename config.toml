@@ -2,5 +2,10 @@ baseurl         =   "https://jre.id.au/"
 languageCode    =   "en-us"
 title           =   "jre id au"
 author          =   "Jamie Reid"
-
 theme           =   "bluejam"
+
+[params]
+  description = "Some text"
+  github = "jamiereid"
+  twitter = "jambulance"
+  email = "jamie@jre.id.au"

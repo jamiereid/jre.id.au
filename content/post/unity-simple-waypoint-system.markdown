@@ -1,13 +1,13 @@
 +++
 Categories = ["Unity", "Game Development"]
 Description = "A simple waypoint system for moving things in Unity"
-Tags = ["Unity", "Code", "C#", "Game Development"]
+Tags = ["unity", "code", "csharp", "gamedevelopment"]
 date = "2015-09-08T14:41:00+10:00"
 title = "Unity: Simple Waypoint System"
 +++
 
 I recently started a night course at the [AIE][1] on Game Development Fundamentals. The first assignment was to make some minor changes to a prebuilt little game they gave us. I ended up throwing out the project they gave us and using the opportunity to extend myself a little bit.
-
+<!--more-->
 The project was an arcade style SHMUP (think [Galaga][2], [Space Invaders][3], or [Raptor][4]). I needed a way to move the enemies around; after toying around with some simple AI ideas (like [Boids][5]) I ended up deciding to just bake the movement in using patterns.
 
 Below is the code I wrote to achieve this.

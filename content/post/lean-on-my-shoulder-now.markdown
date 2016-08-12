@@ -2,7 +2,7 @@
 title: "Lean on my shoulder now"
 description: ""
 date: 2011-04-06
-categories: ["Personal"]
+tags: ["personal"]
 draft: false
 ---
 

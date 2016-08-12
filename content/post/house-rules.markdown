@@ -2,7 +2,7 @@
 title: "House Rules (or The book also says GMs discretion)"
 description: ""
 date: 2011-07-11
-categories: ["Personal"]
+tags: ["personal"]
 draft: false
 ---
 

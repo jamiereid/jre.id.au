@@ -2,7 +2,7 @@
 title: "I too need this advice..."
 description: ""
 date: 2011-05-09
-categories: ["Personal"]
+tags: ["personal"]
 draft: false
 ---
 

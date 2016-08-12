@@ -2,7 +2,7 @@
 title: Second Attempt At Flying
 description: ""
 date: 2015-01-29
-categories: ["Projects"]
+tags: ["projects"]
 draft: false
 ---
 

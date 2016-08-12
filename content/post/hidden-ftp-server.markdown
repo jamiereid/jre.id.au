@@ -2,7 +2,7 @@
 title: "Hidden FTP server in Mac OS X Lion"
 description: ""
 date: 2011-10-14
-categories: ["Personal"]
+tags: ["personal"]
 draft: false
 ---
 

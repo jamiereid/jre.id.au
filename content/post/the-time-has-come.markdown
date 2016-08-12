@@ -2,7 +2,7 @@
 title: "The time has come..."
 description: ""
 date: 2011-04-06
-categories: ["Personal"]
+Tags: ["rpg"]
 draft: false
 ---
 

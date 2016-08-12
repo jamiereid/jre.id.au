@@ -5,10 +5,33 @@
 
             <div class="row">
                 <div class="eight columns">
-                    pants
+                  {{ range first 5 .Data.Pages }}
+                    <div class="post">
+                      <h3 class="post-title">
+                        <a href="{{ .RelPermalink }}">
+                          {{ .Title }}
+                        </a>
+                      </h3>
+                      <span class="post-date">{{ .Date.Format "Monday, January 2, 2006" }}</span>
+                      <span class="post-tags">
+                        {{ range .Params.tags }}<a href="tags/{{ . | urlize }}">#{{ . }} </a>{{ end }}
+                      </span>
+
+                      <div class="post-content">
+                        {{ .Summary }}
+                      </div>
+
+
+                      {{ if .Truncated }}
+                      <div class="read-more-link">
+                        <a href="{{ .RelPermalink }}">Read More</a>
+                      </div>
+                    {{ end }}
+                  </div>
+                  {{ end }}
                 </div>
                 <div class="four columns">
-                    pants
+                  {{ partial "column.html" }}
                 </div>
             </div>
 

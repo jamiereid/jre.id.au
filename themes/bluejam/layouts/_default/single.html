@@ -1,0 +1,30 @@
+{{ partial "header.html" }}
+
+            <div class="row">
+            </div>
+
+            <div class="row">
+                <div class="eight columns">
+                    <div class="post">
+                      <h3 class="post-title">
+                        <a href="{{ .RelPermalink }}">
+                          {{ .Title }}
+                        </a>
+                      </h3>
+                      <span class="post-date">{{ .Date.Format "Monday, January 2, 2006" }}</span>
+                      <span class="post-tags">
+                        {{ range .Params.tags }}<a href="tags/{{ . | urlize }}">#{{ . }} </a>{{ end }}
+                      </span>
+
+                      <div class="post-content">
+                        {{ .Content }}
+                      </div>
+
+                  </div>
+                </div>
+                <div class="four columns">
+                    {{ partial "column.html" }}
+                </div>
+            </div>
+
+{{ partial "footer.html" }}

@@ -2,10 +2,47 @@ body {
     background-color: #1f2c36;
 }
 
-.eight {
-    background-color: #fff;
+.post {
+  padding-top: 3em;
+  font-family: 'Raleway', sans-serif;
+  color: #BBB;
 }
 
-.four {
-    background-color: #000;
+.post-title {
+  margin-bottom: 0px;
+}
+
+.post-title a {
+  color: #CCC;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.post-date {
+  color: #50606D;
+  font-size: 0.9em;
+}
+
+.post-tags {
+  float: right;
+}
+
+.post-tags a {
+  color: #50606D;
+  font-size: 0.8em;
+  text-decoration: none;
+}
+
+.post-content {
+  margin-top: 20px;
+}
+
+.read-more-link {
+  text-transform: uppercase;
+}
+
+.read-more-link a {
+  color: #AA9578;
+  font-size: 0.8em;
+  text-decoration: none;
 }

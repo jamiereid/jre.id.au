@@ -2,7 +2,7 @@
 title: "Naeem"
 description: ""
 date: 2014-12-28
-categories: ["Writing"]
+tags: ["writing"]
 draft: false
 ---
 
