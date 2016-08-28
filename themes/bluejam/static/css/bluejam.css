@@ -2,6 +2,10 @@ body {
     background-color: #1f2c36;
 }
 
+.header {
+  padding: 2em;
+}
+
 .post {
   padding-top: 3em;
   font-family: 'Raleway', sans-serif;
@@ -33,6 +37,10 @@ body {
   text-decoration: none;
 }
 
+.post-tags a:hover {
+  text-decoration: underline;
+}
+
 .post-content {
   margin-top: 20px;
 }
@@ -45,4 +53,63 @@ body {
   color: #AA9578;
   font-size: 0.8em;
   text-decoration: none;
+}
+
+.read-more-link a:hover {
+  text-decoration: underline;
+}
+
+.paginator {
+    padding-top: 1em;
+}
+
+.paginator a {
+    color: #AA9578;
+    text-decoration: none;
+}
+
+.paginator a:hover {
+  color: #AA9578;
+  text-decoration: underline;
+}
+
+.goleft {
+  float: left;
+}
+
+.goright {
+  float: right;
+}
+
+.sidebar {
+  color: #BBB;
+}
+
+.sidebar a {
+  color: #AA9578;
+  text-decoration: none;
+}
+
+.sidebar a:hover {
+  text-decoration: underline;
+}
+
+.sidebar .title {
+  padding-bottom: 0.2em;
+}
+
+.sidebar .title a {
+  color: #CCC;
+  font-weight: bold;
+  font-size: 3em;
+}
+
+.sidebar .title a:hover {
+  text-decoration: none;
+}
+
+.sidebar .blurb {
+  padding-bottom: 1em;
+  font-family: 'Raleway', sans-serif;
+  color: #BBB;
 }

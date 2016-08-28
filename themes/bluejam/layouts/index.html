@@ -1,11 +1,11 @@
 {{ partial "header.html" }}
 
-            <div class="row">
+            <div class="row header">
             </div>
 
             <div class="row">
                 <div class="eight columns">
-                  {{ range first 5 .Data.Pages }}
+                  {{ range (.Paginator 5).Pages }}
                     <div class="post">
                       <h3 class="post-title">
                         <a href="{{ .RelPermalink }}">
@@ -18,7 +18,7 @@
                       </span>
 
                       <div class="post-content">
-                        {{ .Summary }}
+                          {{ .Summary }}
                       </div>
 
 
@@ -29,9 +29,19 @@
                     {{ end }}
                   </div>
                   {{ end }}
+                  <div class="paginator">
+                    {{ if .Paginator.HasPrev }}
+                      <a class="btn btn-default goleft" href="{{ .Paginator.Prev.URL }}"><i class="fa fa-arrow-left" aria-hidden="true"></i>
+  Previous</a>
+                    {{ end }}
+                    {{ if .Paginator.HasNext }}
+                      <a class="btn btn-default goright" href="{{ .Paginator.Next.URL }}">Next <i class="fa fa-arrow-right" aria-hidden="true"></i>
+  </a>
+                    {{ end }}
+                  </div>
                 </div>
-                <div class="four columns">
-                  {{ partial "column.html" }}
+                <div class="four columns sidebar">
+                  {{ partial "column.html" . }}
                 </div>
             </div>
 
