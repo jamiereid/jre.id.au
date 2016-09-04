@@ -1,11 +1,22 @@
 language: go
-install: go get -v github.com/spf13/hugo
+
+install:
+  - go get -v github.com/spf13/hugo
+
 script:
-  - hugo --theme bluejam
-  - python --version
-  - sudo pip install s3cmd
   - sudo pip install pygments
-  - s3cmd sync --delete-removed -P --no-mime-magic -M -r public/ s3://jre.id.au/
+  - hugo
+
+deploy:
+  - provider: s3
+    access_key_id: $AWS_ACCESS_KEY
+    secret_access_key: $AWS_SECRET_KEY
+    bucket: $S3_BUCKET
+    region:
+    local-dir: public
+    skip-cleanup: true
+    detect-encoding: true
+
 notifications:
-    email:
-on_failure: always
+  email:
+    on_failure: always
