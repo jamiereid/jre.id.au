@@ -7,6 +7,8 @@ script:
   - sudo pip install pygments
   - hugo
 
+before_deploy:
+  - sudo pip install s3cmd
 deploy:
   - provider: s3
     access_key_id: $AWS_ACCESS_KEY
@@ -16,6 +18,12 @@ deploy:
     local-dir: public
     skip-cleanup: true
     detect-encoding: true
+after_deploy:
+  - s3cmd modify s3://$S3_BUCKET/css/normalize.css -m "text/css"
+  - s3cmd modify s3://$S3_BUCKET/css/bluejam.css -m "text/css"
+  - s3cmd modify s3://$S3_BUCKET/css/skeleton.css -m "text/css"
+  - s3cmd modify s3://$S3_BUCKET/css/skeleton.css -m "text/css"
+  - s3cmd modify s3://$S3_BUCKET/font-awesome-4.6.3/css/font-awesome.min.css -m "text/css"
 
 notifications:
   email:
