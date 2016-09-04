@@ -12,7 +12,7 @@ deploy:
     access_key_id: $AWS_ACCESS_KEY
     secret_access_key: $AWS_SECRET_KEY
     bucket: $S3_BUCKET
-    region:
+    region: ap-southeast-2
     local-dir: public
     skip-cleanup: true
     detect-encoding: true
