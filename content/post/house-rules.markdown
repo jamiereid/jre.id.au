@@ -2,7 +2,7 @@
 title: "House Rules (or The book also says GMs discretion)"
 description: ""
 date: 2011-07-11
-tags: ["personal"]
+tags: ["rpg", "gaming", "gm"]
 draft: false
 ---
 
@@ -10,6 +10,7 @@ Not that long ago I was [gearing up][1] to run a Serenity campaign for some frie
 
 I sent them blank copies of the character sheet (so that when we sat down at the table they were already familiar with it) and a [3x3x3][2] template for them to fill out.  I asked them to bring concepts for their characters with them, so that they knew what their character was about before we started.
 <!--more-->
+
 A few days later everyone came around to my house. They had brought their concepts with them, and most had pre-filled the 3x3x3.  "Excellent!" I thought, "They're really getting into this."
 
 There were some awesome character concepts brought to the table, and the 3x3x3's provided some useful background ties I could use to add flavour to the campaign.  Unfortunately (you'll soon see why) one of the players had brought a completed character sheet with him too.

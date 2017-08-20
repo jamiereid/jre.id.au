@@ -2,12 +2,12 @@
 title: "The time has come..."
 description: ""
 date: 2011-04-06
-Tags: ["rpg"]
+Tags: ["rpg", "gaming", "gm"]
 draft: false
 ---
 
-A [friend of mine][1] sent an email to our group of friends earlier this week seeing if anyone wanted to try out the [Serenity RPG][2].  I have been trying to get this group of friends to try RP for years so I was delighted, nay giddy, when I opened the email and read through it.  I replied almost immediately with the affirmative to his hint at me running the game for them.
-<!--more-->
+A [friend of mine][1] sent an email to our group of friends earlier this week seeing if anyone wanted to try out the [Serenity RPG][2].  I have been trying to get this group of friends to try RP for years so I was delighted, nay giddy, when I opened the email and read through it.  I replied almost immediately with the affirmative to his hint at me running the game for them.<!--more-->
+
 I ran a Serenity campaign down at the [store][3] for almost six months until some personal things within the group meant that I wasn't comfortable running the game anymore; Which was a shame because some of my favourite scenes I've ever GM'd came from that campaign.
 
 My friend had some questions, and when I was replying to his email I ended up sprinkling in a little of my gaming philosophies, so I'm reproducing the email here in it's entirety.
