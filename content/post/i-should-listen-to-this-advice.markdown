@@ -2,7 +2,8 @@
 title: "I should listen to this advice..."
 description: ""
 date: 2011-05-09
-tags: ["anxiety", "writing"]
+categories: ["writing"]
+tags: ["anxiety"]
 draft: false
 ---
 

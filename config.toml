@@ -2,11 +2,14 @@ baseurl         =   "https://jre.id.au/"
 languageCode    =   "en-us"
 title           =   "jre id au"
 author          =   "Jamie Reid"
-theme           =   "bluejam"
+theme           =   "purejam"
+Paginate        =   10
+#disqusShortname =   "xxxxx"
 
 [params]
-  description = "Maker, coder, writer, musician, 'adult'"
-  github = "jamiereid"
-  twitter = "jambulance"
-  email = "jamie@jre.id.au"
-  instagram = 'jamiereid'
+  description      = "Maker, coder, writer, musician, 'adult'"
+  githubName       = "jamiereid"
+  twitterName      = "jambulance"
+  email            = "jamie@jre.id.au"
+  instagram        = 'jamiereid'
+  hideShareOptions = true

@@ -2,7 +2,7 @@
 title: "Sometimes I know where I'm going"
 description: ""
 date: 2012-03-06
-tags: ["writing"]
+categories: ["writing"]
 draft: false
 ---
 

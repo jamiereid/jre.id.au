@@ -2,7 +2,8 @@
 title: "House Rules (or The book also says GMs discretion)"
 description: ""
 date: 2011-07-11
-tags: ["rpg", "gaming", "gm"]
+categories: ["gaming"]
+tags: ["rpg", "gm"]
 draft: false
 ---
 

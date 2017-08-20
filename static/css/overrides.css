@@ -1,0 +1,7 @@
+.sidebar {
+    background: url("/images/sidebarbg.jpg") fixed no-repeat bottom left;
+}
+
+.nav-item a {
+  border: none;
+}

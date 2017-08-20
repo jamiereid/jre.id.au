@@ -2,7 +2,8 @@
 title: "Naeem"
 description: ""
 date: 2014-12-28
-tags: ["writing", "prompt"]
+categories: ["writing"]
+tags: ["prompt"]
 draft: false
 ---
 
